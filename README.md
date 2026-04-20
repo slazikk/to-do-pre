@@ -1,1 +1,1 @@
-https://github.com/yurovav/to-do-pre-main
+https://github.com/slazikk/to-do-pre-main
